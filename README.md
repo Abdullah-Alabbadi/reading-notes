@@ -1,5 +1,5 @@
 # hello my vistor I am Abdullah Alabbadi, I am 22 years old.
-#I was graduated, majoring in Software Engineering,I have knowledge not bad in programming
+# I was graduated, majoring in Software Engineering,I have knowledge not bad in programming
 
 ## **I'd like to define a growth mindset**
 
