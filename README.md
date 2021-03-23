@@ -8,9 +8,9 @@
 
 ## **There is 3 reminders to keep me in a growth mindset I will tell you about 3 ways in which I keep reminding myself of myself in the growth mindset**
 
-1. First, I do not postpone my work to the next day.
-2. secondly I do not rely too much on others to do what is required from me, whether on home jobs or in work.
-3. Third continue to develop myself and persevere in strengthening my experience.
+1. *First, I do not postpone my work to the next day.*
+2. *secondly I do not rely too much on others to do what is required from me, whether on home jobs or in work.*
+3. *Third continue to develop myself and persevere in strengthening my experience.*
 
 
  #### this my GitHub portfolio page: https://github.com/Abdullah-Alabbadi
