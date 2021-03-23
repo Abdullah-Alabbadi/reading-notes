@@ -15,4 +15,6 @@
 
  #### this my GitHub portfolio page: https://github.com/Abdullah-Alabbadi
  
- #### Fore more information Follow me :)
+ #### For more information Follow me :)
+
+![OIP](https://user-images.githubusercontent.com/81149054/112167238-f7c58780-8bf8-11eb-9812-95aecbcc5826.jpg)
