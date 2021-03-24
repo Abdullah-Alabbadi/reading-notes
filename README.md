@@ -4,9 +4,10 @@
 
 | Topics                       | Link             |
 | ---------------------------- | ---------------- |
-| description 1                | [Link](read.md)  |
+| differences in text editors  | [Link](read.md)  |
 | information about repository | [Link](read1.md) |
-| Growth mindset               | [Link](read2.md) |
+| Growth mindset explan        | [Link](read2.md) |
+| Structure of HTML            | [Link](read3.md) |
 
 ### this my GitHub portfolio page: https://github.com/Abdullah-Alabbadi
 
