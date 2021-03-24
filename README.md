@@ -2,9 +2,11 @@
 
 # I was graduated, majoring in Software Engineering,I have knowledge not bad in programming
 
-| Topics         | Link             |
-| -------------- | ---------------- |
-| Growth mindset | [Link](read1.md) |
+| Topics                       | Link             |
+| ---------------------------- | ---------------- |
+| description 1                | [Link](read.md)  |
+| information about repository | [Link](read1.md) |
+| Growth mindset               | [Link](read2.md) |
 
 ### this my GitHub portfolio page: https://github.com/Abdullah-Alabbadi
 

@@ -1,9 +1,24 @@
-## **today i'm gonna define a growth mindset in my own words;**
+I learned how to create my repository also that Markdown is a way to style text on the web by adding bold or italic, adding images, and creating lists a lot of more, that have a specific extension like .md or .markdown,and it have also a specific syntax like
 
-### Definition of the growth mindset is the main motivation for a person to be a hard-working person who loves himself and loves himself, a growth mindset from its name. We must know that this person loves to develop himself and does perseverance and diligence with his life and not to be a lazy person, once the person is not He depends a lot on others and to be able to develop himself. This person can say that he develops his mind and his skills.
+Headers
+# for h1
 
-## **There is 3 reminders to keep me in a growth mindset I will tell you about 3 ways in which I keep reminding myself of myself in the growth mindset**
+## for h2
 
-1. _First, I do not postpone my work to the next day._
-2. _secondly I do not rely too much on others to do what is required from me, whether on home jobs or in work._
-3. _Third continue to develop myself and persevere in strengthening my experience._
+###### for h3
+
+Emphasis
+It has special formatting in texts such as an If we place the text between * * or _ _, the text will be italic.
+
+If we place the text in between **   ** or __    __, the text will be bold.
+
+In Lists
+Unordered
+And in the unordered, the sign * must be used, also We must take two spaces down.
+
+In Ordered
+And in the unordered, the sign number must be used, also We must take two spaces down.
+
+there is a lot of so like image and link also, Blockquotes.
+
+URL of my live new page: https://abdullah-alabbadi.github.io/reading-notes/
