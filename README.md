@@ -2,13 +2,14 @@
 
 # I was graduated, majoring in Software Engineering,I have knowledge not bad in programming
 
-| Topics                       | Link             |
-| ---------------------------- | ---------------- |
-| differences in text editors  | [Link](read.md)  |
-| information about repository | [Link](read1.md) |
-| Growth mindset explan        | [Link](read2.md) |
-| Structure of HTML            | [Link](read3.md) |
-| JavaScript language          | [Link](read4.md) |
+| Topics                        | Link             |
+| ----------------------------- | ---------------- |
+| differences in text editors   | [Link](read.md)  |
+| information about repository  | [Link](read1.md) |
+| Growth mindset explan         | [Link](read2.md) |
+| Structure of HTML             | [Link](read3.md) |
+| JavaScript language           | [Link](read4.md) |
+| logical operators description | [Link](read5.md) |
 
 ### this my GitHub portfolio page: https://github.com/Abdullah-Alabbadi
 
