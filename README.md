@@ -14,6 +14,7 @@
 | Structure of HTML             | [Click here](read3.md) |
 | JavaScript language           | [Click here](read4.md) |
 | logical operators description | [Click here](read5.md) |
+| Conclusion about Color in JS  | [Click here](read6.md) |
 
 ### this my GitHub main page: [Click here](https://github.com/Abdullah-Alabbadi)
 
