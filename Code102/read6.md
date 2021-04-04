@@ -9,7 +9,7 @@ hex values represent values for red, green, and blue in hexadecimal c
 **The third:** a sign that’s called colour Names
 colours are represented by predefined names. However, they are very limited in number.
 
-**There is a difference in use of Color;**
+**There is a difference in the use of Color;**
 
 **in RGB values** a colour can also have saturation and brightness as well as hue also Text is harder to read when there is low contrast between background and foreground colours.
 
