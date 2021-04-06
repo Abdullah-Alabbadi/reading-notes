@@ -78,7 +78,7 @@ overflow: scroll;}
 
 ---
 
-(Hint!)
+('Hint!')
 
 all of these happen in the CSS file in mentioned classes )
 
