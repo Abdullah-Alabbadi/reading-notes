@@ -82,7 +82,7 @@ overflow: scroll;}
 
 all of these happen in the CSS file in mentioned classes )
 
----------------------------------------------------------------------------------------------------------
+---
 
 We talk before about (border, margin, padding)
 
@@ -130,7 +130,7 @@ the last thing it’s about how to Merge all of style, width and color in the on
 
 border: 3px dotted #0088dd;}
 
-----------------------------------------------------------------------------------------------------------------------------------------
+---
 
 centre text
 
@@ -138,17 +138,13 @@ if we want to centre the text on our page we can do that if we want we need to w
 
 text-align: center;}
 
-
-
 there is an IE6 box model, the purpose of using it, to control the border of the text in a separate way, I mean from up, down, right and left.
 
-----------------------------------------------------------------------------------------------------------------------------------------
+---
 
 SWITCH STATEMENTS
 
 A switch statement’s statement that starts from word (switch), Each case indicates a possible value and the code that should run if the variable matches that value.
-
-
 
 switch( expression ) {
 

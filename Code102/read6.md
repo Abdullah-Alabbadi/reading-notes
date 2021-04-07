@@ -16,4 +16,3 @@ colours are represented by predefined names. However, they are very limited in n
 **in hex codes** Text is easier to read when there is a higher contrast between background and foreground colours.
 
 **In colour name** For long spans of text, reducing the contrast a little bit improves readability.
-

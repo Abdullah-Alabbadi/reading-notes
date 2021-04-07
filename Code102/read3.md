@@ -7,5 +7,3 @@ At the design stage and during construction, we must put beautiful touches on wh
 There are several codes that help us in designing HTML pages, such as <nav> or <article> <header> Which helps us to divide the pages and including adding browsing specific points, also adding an article.
 
 so in the end, we should experiment with what we have created so that we can see what was produced, how the outputs became, and is everything ok
-
-
