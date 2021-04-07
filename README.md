@@ -36,7 +36,7 @@
 | CSS, javaScript Introducing and Instructions            | [Click here](Code201/class-02.md) |
 | HTML Lists, Control Flow with JS, and the CSS Box Model | [Click here](Code201/class-03.md) |
 | HTML Links, JS Functions, and Intro to CSS Layout       | [Click here](Code201/class-04.md) |
-| wating to fill                                          | [Click here](Code201/class-05.md) |
+| HTML Images; CSS Color & Text                           | [Click here](Code201/class-05.md) |
 | wating to fill                                          | [Click here](Code201/class-06.md) |
 | wating to fill                                          | [Click here](Code201/class-07.md) |
 | wating to fill                                          | [Click here](Code201/class-08.md) |
