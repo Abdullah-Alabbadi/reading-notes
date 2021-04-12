@@ -52,3 +52,6 @@ Elements are then positioned using the top, bottom, left, and right properties. 
 The CSS Grid Layout Module offers a grid-based layout system, with rows and columns, making it easier to design web pages without having to use floats and positioning.
 
 **In the end, I hope you enjoying reading, best wishes.**
+
+_References :
+Ch.15 / HTML & CSS: Design and Built Websites.JON DUCKETT._
