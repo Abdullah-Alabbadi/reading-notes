@@ -38,7 +38,7 @@
 | HTML Links, JS Functions, and Intro to CSS Layout       | [Click here](Code201/class-04.md) |
 | HTML Images; CSS Color & Text                           | [Click here](Code201/class-05.md) |
 | Object Literals; The DOM                                | [Click here](Code201/class-06.md) |
-| wating to fill                                          | [Click here](Code201/class-07.md) |
+| HTML Tables; JS Constructor Functions                   | [Click here](Code201/class-07.md) |
 | wating to fill                                          | [Click here](Code201/class-08.md) |
 | wating to fill                                          | [Click here](Code201/class-09.md) |
 | wating to fill                                          | [Click here](Code201/class-10.md) |
