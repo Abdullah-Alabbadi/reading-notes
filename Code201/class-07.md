@@ -26,6 +26,6 @@ second: creating a blank object using constructor notation and adding properties
 
 here there is some of the function and declare it;
 
-![GitHub Logo](/image/vs.png)
+![explanes](https://i.stack.imgur.com/lW91X.png)
 
 in the end, I hope you enjoying reading, best wishes.
