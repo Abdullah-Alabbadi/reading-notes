@@ -26,10 +26,10 @@ _Forms:_
 
 _Lists:_
 
-## Format: ![Alt Text](/image/list.png)
+Format: ![Alt Text](/image/list.png)
 
 _Tables:_
 
-## Format: ![Alt Text](/image/table.png)
+ Format: ![Alt Text](/image/table.png)
 
 _In the end, I hope you enjoying reading, best wishes._
