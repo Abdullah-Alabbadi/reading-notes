@@ -26,14 +26,10 @@ _Forms:_
 
 _Lists:_
 
-![explanes](/image/list.png)
-
----
+## Format: ![Alt Text](/image/list.png)
 
 _Tables:_
 
-![explanes](/image/table.png)
+## Format: ![Alt Text](/image/table.png)
 
----
-*In the end, I hope you enjoying reading, best wishes.*
-
+_In the end, I hope you enjoying reading, best wishes._

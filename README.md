@@ -40,7 +40,7 @@
 | Read: 06 -Object Literals; The DOM                                | [Click here](Code201/class-06.md) |
 | Read: 07 -HTML Tables; JS Constructor Functions                   | [Click here](Code201/class-07.md) |
 | Read: 08 - More CSS Layout                                        | [Click here](Code201/class-08.md) |
-| wating to fill                                                    | [Click here](Code201/class-09.md) |
+| Read: 09 - Forms and Events                                       | [Click here](Code201/class-09.md) |
 | wating to fill                                                    | [Click here](Code201/class-10.md) |
 | wating to fill                                                    | [Click here](Code201/class-11.md) |
 | wating to fill                                                    | [Click here](Code201/class-12.md) |
