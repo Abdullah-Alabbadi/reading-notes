@@ -35,7 +35,6 @@ _Lists:_
 
 _Tables:_
 
-
 `<table class="one">`
 `<tr>`
 `<td>1</td>`

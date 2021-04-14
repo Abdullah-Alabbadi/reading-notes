@@ -29,7 +29,7 @@ An inline element only takes up as much width as necessary.
 
 ---
 
-**Fixed Layout ( position )**
+## **Fixed Layout ( position )**
 
 The position of the property specifies the type of positioning method used for an element (static, relative, fixed, absolute, or sticky).
 
