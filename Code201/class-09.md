@@ -26,10 +26,20 @@ _Forms:_
 
 _Lists:_
 
-Format: ![Alt Text](/image/list.png)
+`<h1>the gamer first</h1>`
+
+`<h2>the gamer strong</h2>`
+
+`<ol>`
+`<li>playing<li><li>win<li></ol>`
 
 _Tables:_
 
- Format: ![Alt Text](/image/table.png)
+
+`<table class="one">`
+`<tr>`
+`<td>1</td>`
+`<td>2</td>`
+`</table>`
 
 _In the end, I hope you enjoying reading, best wishes._
