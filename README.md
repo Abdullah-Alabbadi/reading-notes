@@ -42,7 +42,7 @@
 | Read: 08 - More CSS Layout                                         | [Click here](Code201/class-08.md) |
 | Read: 09 - Forms and Events                                        | [Click here](Code201/class-09.md) |
 | Read: 10 - JS Debugging                                            | [Click here](Code201/class-10.md) |
-| wating to fill                                                     | [Click here](Code201/class-11.md) |
+| Read: 11 - Assorted Topics                                         | [Click here](Code201/class-11.md) |
 | wating to fill                                                     | [Click here](Code201/class-12.md) |
 | wating to fill                                                     | [Click here](Code201/class-13.md) |
 | wating to fill                                                     | [Click here](Code201/class-14.md) |
