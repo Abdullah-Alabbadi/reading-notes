@@ -44,7 +44,7 @@
 | Read: 10 - JS Debugging                                            | [Click here](Code201/class-10.md) |
 | Read: 11 - Assorted Topics                                         | [Click here](Code201/class-11.md) |
 | Read: 12 - Docs for the HTMLElement & Chart.js                     | [Click here](Code201/class-12.md) |
-| wating to fill                                                     | [Click here](Code201/class-13.md) |
+| Read: 13 - Local Storage                                           | [Click here](Code201/class-13.md) |
 | wating to fill                                                     | [Click here](Code201/class-14.md) |
 | wating to fill                                                     | [Click here](Code201/class-15.md) |
 
