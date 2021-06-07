@@ -54,6 +54,6 @@ it's types to a default export since the default export could be any value (like
 
 **reference:**
 
-https://www.tutorialride.com/software-architecture-and-design/component-based-architecture.htm 
+<https://www.tutorialride.com/software-architecture-and-design/component-based-architecture.htm >
 
-https://flow.org/en/docs/react/types/ 
+<https://flow.org/en/docs/react/types/ >
