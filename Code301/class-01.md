@@ -48,8 +48,6 @@ it's types to a default export since the default export could be any value (like
 
 <br>
 
-**if you want to see this in my repo:** _Click Here_
-
 **_In the end, I hope you enjoying reading, best wishes._**
 
 **reference:**
