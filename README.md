@@ -2,8 +2,6 @@
 
 ---
 
-# **Introduction about myself**
-
 ## hello my vistor welcome to my reading Note I am Abdullah Alabbadi, I am 22 years old.
 
 ## I was graduated, majoring in Software Engineering,I have knowledge not bad in programming.
@@ -78,4 +76,4 @@
 
 ### For more information Follow me :)
 
-![thankyou photo](Code102/thankYou.jpg)
+
