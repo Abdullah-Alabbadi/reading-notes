@@ -11,7 +11,9 @@
 **If I want to loop through an array and display each value in JSX, how do I do that in React?** we can put any valid JavaScript expression inside the curly braces in JSX for example:
 
 `function NumberList(props) {`
+
  ` const numbers = props.numbers;`
+ 
   `const listItems = numbers.map((number) =>`
   ` <ListItem key={number.toString()}`
         `      value={number} />`
