@@ -93,11 +93,10 @@
 
 <br>
 
-<br>
 
 **_In the end, I hope you enjoying reading, best wishes._**
 
-References:
+**_References:_**
 <https://stackoverflow.com/questions/37949981/call-child-method-from-parent>
 
 <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax>
