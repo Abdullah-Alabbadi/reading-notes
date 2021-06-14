@@ -1,6 +1,6 @@
 # Read: Class (06) NODE.JS
 
-## there is some important question we should ask us about State and Props:
+## there is some important question we should ask us about Node:
 
 ---
 

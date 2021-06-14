@@ -2,7 +2,7 @@
 
 ---
 
-### **there is some important question we should ask us about State and Props:**
+### **there is some important question we should ask us about component:**
 
 ---
 

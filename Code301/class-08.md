@@ -1,6 +1,6 @@
 # Read: Class (08) APIs
 
-## there is some important question we should ask us about State and Props:
+## There is some important question we should ask us about APIs :
 
 ---
 <br>

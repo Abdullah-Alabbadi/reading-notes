@@ -1,6 +1,6 @@
 # Read: Class (07) REST
 
-## there is some important question we should ask us about State and Props:
+## there is some important question we should ask us about Rest:
 
 ---
 <br>
