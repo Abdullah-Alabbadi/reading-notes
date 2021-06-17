@@ -1,4 +1,4 @@
-# Read: Class (08) functional programming
+# Read: Class (09) functional programming
 
 ## There is some important question we should ask us about functional programming:
 

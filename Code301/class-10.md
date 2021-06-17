@@ -1,4 +1,4 @@
-# Read: Class (08) memory storage
+# Read: Class (10) memory storage
 
 ## There is some important question we should ask us about memory storage:
 
