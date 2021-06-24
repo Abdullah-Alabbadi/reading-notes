@@ -75,8 +75,13 @@
 ---
 
 <br>
-### _For more information Follow me on GitHUb :)_
+
+### _For more information Follow me on GitHub_
 
 <br>
 
-## _See you_
+## _See you :)_
+
+<br>
+
+ ![broken Bye](image/Bye.png)
